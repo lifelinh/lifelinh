@@ -10,4 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/the-amazing-digital-c
 ```
 The old one, which uses the name `lifelinh`, will still work, but I recommend getting used to the new one, as there is no guarantee that it will reliably redirect to the new one in the future.
 
-<div class="tenor-gif-embed" data-postid="3532442951720550935" data-share-method="host" data-aspect-ratio="1.84444" data-width="100%"><a href="https://tenor.com/view/baby-milk-milk-sanrio-cinnamoroll-cinnamoroll-sanrio-character-gif-3532442951720550935">Baby Milk Sanrio GIF</a>from <a href="https://tenor.com/search/baby+milk-gifs">Baby Milk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/baby-milk-milk-sanrio-cinnamoroll-cinnamoroll-sanrio-character-gif-3532442951720550935" alt="Alt text">
