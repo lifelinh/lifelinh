@@ -4,7 +4,7 @@ If you are seeing this, you may have been familiar with one of my Roblox scripts
 
 Please proceed to my [current account](https://github.com/the-amazing-digital-circus), which contains [the Milk script](https://github.com/the-amazing-digital-circus/Milk).
 
-Here's the updated loadstring to the script.
+Here's the updated loadstring for it.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/the-amazing-digital-circus/Milk/main/126884695634066"))()
 ```
