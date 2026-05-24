@@ -8,4 +8,4 @@ Here's the updated loadstring for it.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/the-amazing-digital-circus/Milk/main/126884695634066"))()
 ```
-The old one, which uses the name `lifelinh`, will still work, but I recommend getting used to the new one, as there is no guarantee that the old one will redirect to the new one in the future.
+The old one, which uses the name `lifelinh`, will still work, but I recommend getting used to the new one, as there is no guarantee that it will reliably redirect to the new one in the future.
