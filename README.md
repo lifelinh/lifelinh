@@ -10,4 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/the-amazing-digital-c
 ```
 The old one, which uses the name `lifelinh`, will still work, but I recommend getting used to the new one, as there is no guarantee that it will reliably redirect to the new one in the future.
 
-<img width="498" height="269" alt="baby-milk-milk" src="https://github.com/user-attachments/assets/58f42492-1864-456b-8e32-0e28f3cbfe06" />
+<img width="996" height="538" alt="baby-milk-milk" src="https://github.com/user-attachments/assets/58f42492-1864-456b-8e32-0e28f3cbfe06" />
